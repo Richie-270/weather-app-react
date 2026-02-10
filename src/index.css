@@ -1,9 +1,7 @@
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
-@import "tailwindcss/components";
+@import "tailwindcss";
 
-@layer components {
+@layer base {
   body {
-    @apply w-full h-[900px] xl:h-[940px] bg-gradient-to-b from-sky-500/10 from-40% via-sky-600/25 via-70% to-sky-700/50 to-90%;
+    @apply min-h-screen bg-linear-to-b from-sky-500/10 from-40% via-sky-600/25 via-70% to-sky-700/50 to-90%;
   }
 }
