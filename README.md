@@ -2,7 +2,7 @@
 
 Aplicación del clima en tiempo real construida con **React**, **Vite** y **Zustand**, consumiendo la API de **OpenWeatherMap**. Permite buscar cualquier ciudad del mundo y obtener información meteorológica actualizada.
 
-🔗 **Demo en vivo:** [weather-app-react-alpha-one.vercel.app](https://weather-app-react-alpha-one.vercel.app)
+🔗 **Demo en vivo:** [weather-app-react-alpha-one.vercel.app](https://weather-app-react-three-pied.vercel.app/)
 
 ---
 
